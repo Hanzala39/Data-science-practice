@@ -5,24 +5,29 @@ A collection of beginner-level data analysis exercises using NumPy, focusing on 
 
 # NumPy Data Analysis Project
 
-## 📌 Description
-This is a beginner-level Python project using NumPy. It generates random data and performs basic statistical analysis.
+## About this project
+This is a small beginner project I made while learning Python and NumPy.  
+It generates random numbers and then does some basic analysis on them.
 
-## 📊 Features
-- Random data generation using NumPy
-- Calculation of:
-  - Mean
-  - Median
-  - Standard Deviation
-  - Maximum value
-  - Minimum value
+## What it does
+- Creates random data using NumPy
+- Finds the mean, median, and standard deviation
+- Shows the maximum and minimum values
 
-## 🛠️ Technologies Used
+## Why I made this
+I made this to practice NumPy and understand how basic data analysis works in Python.
+
+## Tools used
 - Python
 - NumPy
 
-## 🎯 Purpose
-The purpose of this project is to practice basic data analysis and strengthen fundamentals in NumPy.
+## How to run it
+1. Install NumPy if you don’t have it:
 
-## 🚀 How to Run
-1. Install NumPy if not installed:
+2. Run the file:
+
+
+## What I learned
+- How to work with NumPy arrays
+- Basic statistical functions
+- How to handle and analyze simple data
